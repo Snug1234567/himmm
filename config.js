@@ -50,7 +50,7 @@ module.exports = {
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "`QUEEN_NIKKA™`",
   author: process.env.PACK_AUTHER || "ʜɪᴍ𓃵⁩",
-  packname: process.env.PACK_NAME || "KING",
+  packname: process.env.PACK_NAME || "ᴏɴʟʏ1",
   botname: process.env.BOT_NAME || "QUEEN_NIKKA",
   ownername: process.env.OWNER_NAME || "ʜɪᴍ𓃵⁩",
   errorChat: process.env.ERROR_CHAT || "",
